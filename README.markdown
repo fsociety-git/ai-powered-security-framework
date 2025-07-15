@@ -11,7 +11,7 @@ Leverage ML for security: anomaly detection, vuln prediction, attack simulation.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ai-powered-security-framework.git
+git clone https://github.com/fsociety-git/ai-powered-security-framework.git
 cd ai-powered-security-framework
 pip install -r requirements.txt
 ```
