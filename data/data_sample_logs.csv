@@ -1,0 +1,3 @@
+timestamp,ip,request,response
+1721059200,192.168.1.1,GET /,200
+1721059260,192.168.1.2,POST /login,401
